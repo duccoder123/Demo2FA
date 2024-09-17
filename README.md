@@ -8,7 +8,9 @@ Yếu tố sở hữu (Something you have): Là những gì người dùng có, 
 Yếu tố sinh trắc học (Something you are): Là những gì thuộc về sinh trắc học của người dùng, ví dụ như vân tay, nhận diện khuôn mặt, hoặc mống mắt.  
 
 Cách hoạt động của 2FA:
+
 Bước 1: Nhập mật khẩu – Người dùng nhập mật khẩu hoặc thông tin đăng nhập.
+
 Bước 2: Xác thực yếu tố thứ hai – Sau khi nhập mật khẩu, hệ thống sẽ yêu cầu một yếu tố xác thực thứ hai, ví dụ:
 Một mã xác thực gửi qua SMS.
 Một mã OTP (One-Time Password) từ ứng dụng xác thực.

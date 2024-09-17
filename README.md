@@ -1,0 +1,1 @@
+2FA (Two-Factor Authentication), hay xác thực hai yếu tố, là một phương pháp bảo mật giúp bảo vệ tài khoản người dùng bằng cách yêu cầu hai yếu tố khác nhau để xác minh danh tính khi đăng nhập. Điều này giúp nâng cao độ an toàn hơn so với việc chỉ sử dụng một yếu tố như mật khẩu.

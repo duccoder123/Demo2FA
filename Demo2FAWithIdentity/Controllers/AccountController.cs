@@ -36,7 +36,7 @@ namespace Demo2FAWithIdentity.Controllers
                 return Unauthorized();
 
             var token = await userManager.GenerateTwoFactorTokenAsync(await GetUser(email),
-                TokenOptions.DefaultProvider);
+                TokenOptions.DefaultEmailProvider);
 
             return Ok(SendEmail(await GetUser(email), token));
         }
